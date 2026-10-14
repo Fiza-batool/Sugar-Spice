@@ -5,9 +5,9 @@ A modern, responsive website for **Sugar & Spice Bakehouse**, a home bakery conc
 ## 🖥️ Website Preview
 
 **[View the Project Repository](https://sugarspicebakehouse.netlify.app/)**
-[![Sugar & Spice Website Preview](screenshot.png)](YOUR_LIVE_WEBSITE_URL)
+[![Sugar & Spice Website Preview](screenshot.png)](https://sugarspicebakehouse.netlify.app/)
 
-> Screenshot preview will be added here after uploading `screenshot.png` to the repository.
+
 
 ## ✨ Features
 
